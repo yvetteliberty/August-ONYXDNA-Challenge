@@ -34,3 +34,4 @@ The goal of this month’s challenge is to uncover actionable insights into how 
 ## Dashboard 
 ![](https://github.com/yvetteliberty/August-ONYXDNA-Challenge/blob/main/membership.png)
 ![](https://github.com/yvetteliberty/August-ONYXDNA-Challenge/blob/main/Engagement.png)
+![](https://github.com/yvetteliberty/August-ONYXDNA-Challenge/blob/main/Revenue.png)
