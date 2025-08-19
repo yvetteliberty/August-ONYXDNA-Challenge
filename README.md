@@ -31,3 +31,5 @@ The goal of this month’s challenge is to uncover actionable insights into how 
 - 💵 Avg. Revenue per Member (ARPU): 34.44
 - 🏋️ Personal Training Users: 1,034 (~52%)
 - 🧖 Sauna Users: 51%
+## Dashboard 
+![](https://github.com/yvetteliberty/August-ONYXDNA-Challenge/blob/main/membership.png)
