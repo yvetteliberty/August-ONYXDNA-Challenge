@@ -35,3 +35,16 @@ The goal of this month’s challenge is to uncover actionable insights into how 
 ![](https://github.com/yvetteliberty/August-ONYXDNA-Challenge/blob/main/membership.png)
 ![](https://github.com/yvetteliberty/August-ONYXDNA-Challenge/blob/main/Engagement.png)
 ![](https://github.com/yvetteliberty/August-ONYXDNA-Challenge/blob/main/Revenue.png)
+![](https://github.com/yvetteliberty/August-ONYXDNA-Challenge/blob/main/location.png)
+## 📌 Key Observations
+- Churn Crisis → Very high across all tiers (esp. Monthly: 34.2%).
+- Revenue Driver → Premium plan generates ~50% of revenue.
+- Engagement → Strong uptake in PT & Sauna usage.
+- Seasonality → Dip in July, rebound Aug–Sept.
+- Yearly Trend → Revenue peaked in 2023, dropped sharply in 2025 (YTD).
+  
+ ## 💡 Recommendations
+ - Cut Churn – loyalty programs, push quarterly/annual plans.
+- Boost Engagement – bundle PT/sauna with mid-tier memberships.
+- Win-Back Campaigns – targeted offers for inactive members.
+- Revenue Stability – focus on retaining Premium members, counter July slump with promos/events.
