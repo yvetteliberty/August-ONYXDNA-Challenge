@@ -48,3 +48,6 @@ The goal of this month’s challenge is to uncover actionable insights into how 
 - Boost Engagement – bundle PT/sauna with mid-tier memberships.
 - Win-Back Campaigns – targeted offers for inactive members.
 - Revenue Stability – focus on retaining Premium members, counter July slump with promos/events.
+  
+## Connect with me on my socials:
+[Linkedln](www.linkedin.com/in/yvettemefendja)
